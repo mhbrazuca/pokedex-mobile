@@ -28,7 +28,7 @@ fun main() {
 
         
         val imagem = JLabel()
-        val icon = ImageIcon("src${item.imagem}") 
+        val icon = ImageIcon("src/${item.imagem}") 
         val resizedIcon = ImageIcon(icon.image.getScaledInstance(64, 64, Image.SCALE_SMOOTH))
         imagem.icon = resizedIcon
         imagem.horizontalAlignment = SwingConstants.CENTER
