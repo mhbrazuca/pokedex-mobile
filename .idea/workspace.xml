@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project version="4">
+
+  <component name="AutoImportSettings">
+
+    <option name="autoReloadType" value="SELECTIVE" />
+
+  </component>
+
+  <component name="ChangeListManager">
+
+    <list default="true" id="d19ff7fd-ad05-471d-b2f3-7cf91c70848f" name="Changes" comment="" />
+
+    <option name="SHOW_DIALOG" value="false" />
+
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+
+  </component>
+
+  <component name="ProjectColorInfo"><![CDATA[{
+
+  "associatedIndex": 6
+
+}]]></component>
+
+  <component name="ProjectId" id="31mfbKnR1m61FBzdVhBOlfvIAmR" />
+
+  <component name="ProjectViewState">
+
+    <option name="hideEmptyMiddlePackages" value="true" />
+
+    <option name="showLibraryContents" value="true" />
+
+  </component>
+
+  <component name="PropertiesComponent"><![CDATA[{
+
+  "keyToString": {
+
+    "Kotlin.ItemKt.executor": "Run",
+
+    "Kotlin.MainKt.executor": "Run",
+
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+
+    "kotlin-language-version-configured": "true",
+
+    "last_opened_file_path": "C:/Users/MARIAHELENACOELHO/IdeaProjects/pokedex1/src/images",
+
+    "node.js.detected.package.eslint": "true",
+
+    "node.js.detected.package.tslint": "true",
+
+    "node.js.selected.package.eslint": "(autodetect)",
+
+    "node.js.selected.package.tslint": "(autodetect)",
+
+    "nodejs_package_manager_path": "npm",
+
+    "onboarding.tips.debug.path": "C:/Users/MARIAHELENACOELHO/IdeaProjects/pokedex1/src/Main.kt",
+
+    "project.structure.last.edited": "Modules",
+
+    "project.structure.proportion": "0.15",
+
+    "project.structure.side.proportion": "0.2",
+
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+
+    "vue.rearranger.settings.migration": "true"
+
+  }
+
+}]]></component>
+
+  <component name="RecentsManager">
+
+    <key name="CopyFile.RECENT_KEYS">
+
+      <recent name="C:\Users\MARIAHELENACOELHO\IdeaProjects\pokedex1\src\images" />
+
+      <recent name="C:\Users\MARIAHELENACOELHO\IdeaProjects\pokedex1\src" />
+
+      <recent name="C:\Users\MARIAHELENACOELHO\IdeaProjects\pokedex1\resources" />
+
+    </key>
+
+  </component>
+
+  <component name="TaskManager">
+
+    <task active="true" id="Default" summary="Default task">
+
+      <changelist id="d19ff7fd-ad05-471d-b2f3-7cf91c70848f" name="Changes" comment="" />
+
+      <created>1756134250369</created>
+
+      <option name="number" value="Default" />
+
+      <option name="presentableId" value="Default" />
+
+      <updated>1756134250369</updated>
+
+      <workItem from="1756134271286" duration="2910000" />
+
+    </task>
+
+    <servers />
+
+  </component>
+
+  <component name="TypeScriptGeneratedFilesManager">
+
+    <option name="version" value="3" />
+
+  </component>
+
+</project>
