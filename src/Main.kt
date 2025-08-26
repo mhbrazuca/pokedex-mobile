@@ -18,7 +18,7 @@ fun main() {
     frame.layout = BorderLayout()
 
     val painel = JPanel()
-    painel.layout = GridLayout(0, 2, 10, 10) // 2 colunas, espaçamento 10px
+    painel.layout = GridLayout(0, 2, 10, 10)
     painel.border = EmptyBorder(10, 10, 10, 10)
 
     for (item in itens) {
@@ -26,9 +26,9 @@ fun main() {
         card.layout = BorderLayout()
         card.border = BorderFactory.createLineBorder(Color.BLACK, 2)
 
-        // Imagem do item (arquivo dentro de src/images)
+        
         val imagem = JLabel()
-        val icon = ImageIcon("src/images/${item.imagem}") // <- caminho atualizado
+        val icon = ImageIcon("src/images/${item.imagem}") 
         val resizedIcon = ImageIcon(icon.image.getScaledInstance(64, 64, Image.SCALE_SMOOTH))
         imagem.icon = resizedIcon
         imagem.horizontalAlignment = SwingConstants.CENTER
